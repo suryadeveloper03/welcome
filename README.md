@@ -13,7 +13,6 @@ I am Surya, a **Software Engineer** based out of India working at [Pictuscode](h
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![PHP](https://img.shields.io/badge/-Php-black?style=flat-square&logo=Php)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
-![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
 ![pwa](https://img.shields.io/badge/Progressive_Web_App-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
