@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Surya, a **Software Engineer** based out of India working at [Pictuscode](https://www.pictuscode.com). Having around 3 years of experience in full-stack web development, but since 2021, I'm professionally working as a Frontend Engineer. To see my profile in detail, I recommend to look at my LinkedIn profile.
+I am Surya, a **Software Engineer** based out of India working at [Pictuscode](https://www.pictuscode.com). Having around 3 years of experience in full-stack web development, but since 2021, I'm professionally working as a Backend Engineer. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-adeel-9ba19951/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muhammad-adeel-91)
