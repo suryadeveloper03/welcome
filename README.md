@@ -1,5 +1,5 @@
 <!--Banner-->
-![Kiran168 Banner Image](./banner.png)
+![Surya Banner Image](./banner_img.jpg)
 
 <!--Night Owl image-->
 <div>
@@ -94,12 +94,12 @@
 <div align="center">
   
 <a href="mailto:suryadeveloper03@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
+<img src="./gmail.png" width=50 height=50 alt="suryadeveloper03@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 
 <a href="https://www.githubcom/suryadeveloper03/welcome" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
+<img src="./github.png" width=50 height=50 alt="suryadeveloper03" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/surya-m-62903b247" target="_blank">
